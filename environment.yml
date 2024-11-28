@@ -1,0 +1,8 @@
+name: WebScrape2
+channels:
+  - default
+dependencies:
+  - python=3.13.0
+  - pip:
+      - selenium
+      - beautifulsoup4
